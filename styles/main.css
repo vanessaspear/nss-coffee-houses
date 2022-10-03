@@ -1,0 +1,20 @@
+.list {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+}
+
+.shop {
+    flex-basis: 13%;
+    border: 1px solid rgba(165, 79, 42, 0.566);
+    padding: 10px;
+    margin: 10px 5px;
+    text-align: center;
+}
+
+.pageHeader {
+    text-align: center;
+    font-size: large;
+    color: white;
+    background-color: rgba(165, 79, 42, 0.566);
+}
